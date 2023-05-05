@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- I’m currently learning HTML, CSS, Javascript, React, Typescript, Node and SQL
+- I’m currently learning HTML, CSS, Javascript, React, Typescript and Python.
