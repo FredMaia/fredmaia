@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-- I’m currently learning HTML, CSS, Javascript, React, Typescript and Python.
+- I’m currently learning web development and Python.
+- [My Portfolio Website] (https://www.github.com/fredmaia)
