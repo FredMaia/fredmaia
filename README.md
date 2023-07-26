@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- I’m currently learning web development and Python.
+- I’m currently learning Javascript and Python.
