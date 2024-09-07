@@ -1,6 +1,6 @@
 # Hey there, I'm Fred! =)
 
-I am an undergraduate student in Computer Science at UFLA with experience in web and mobile development projects. Additionally, I have expertise in data analysis tools such as Excel, PowerBI, SQL, and Python. I am always looking for new opportunities to apply my technical skills and work on projects that combine technology and data to create innovative solutions.
+I am a Computer Science student at UFLA with experience in web and mobile development projects. Additionally, I have expertise in data analysis tools such as Excel, PowerBI, SQL, and Python. I am always looking for new opportunities to apply my technical skills and work on projects that combine technology and data to create innovative solutions.
 
 ### Skills
 
